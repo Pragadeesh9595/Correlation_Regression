@@ -27,6 +27,6 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Output 
 <img width="1256" height="179" alt="image" src="https://github.com/user-attachments/assets/2cffc6f3-7de3-4f39-bc9a-b0de5f673af3" />
-
+![Alt text](Screenshot 2026-03-16 161844.png)
 # result
 above program is done and output is verified successfully
